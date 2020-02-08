@@ -1,0 +1,29 @@
+[33mcommit 1f3acec58c4848808d8b7b43c5f088dd5669ba7a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ryota <ryota1116funa@gmail.com>
+Date:   Fri Feb 7 13:32:08 2020 +0000
+
+    Complete advanced setup
+
+[33mcommit 89157c0aa7e7f721fce534e6611133c2dcece32a[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mstatic-pages[m[33m)[m
+Author: Ryota <ryota1116funa@gmail.com>
+Date:   Fri Feb 7 13:00:24 2020 +0000
+
+    Finish static pages
+
+[33mcommit ed9812367188649158d172cc1b5d587a4e76fbe1[m[33m ([m[1;31morigin/static-pages[m[33m)[m
+Author: Ryota <ryota1116funa@gmail.com>
+Date:   Thu Feb 6 16:10:31 2020 +0000
+
+    Add a Static Pages controller
+
+[33mcommit 19f35fa62fa1268610e3fdb2a18f7cb48e2a4ed0[m
+Author: Ryota <ryota1116funa@gmail.com>
+Date:   Thu Feb 6 15:54:04 2020 +0000
+
+    Improve the README
+
+[33mcommit c520d675ab0b626c8e6ebffb471ad33f6db618d9[m
+Author: Ryota <ryota1116funa@gmail.com>
+Date:   Thu Feb 6 15:26:51 2020 +0000
+
+    Initialize repository
